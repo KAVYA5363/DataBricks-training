@@ -15,3 +15,17 @@ SQL database exercises for mastering relational database concepts and query writ
 MySQL practice project with sample datasets and 65+ SQL queries.
 Complete DBMS SQL project for academic learning and hands-on query practice.
 SQL repository featuring aggregate functions, correlated subqueries, and join operations.
+
+day 2
+
+Database creation
+Table creation
+Sample data insertion
+SQL practice queries
+Filtering and sorting
+Aggregate functions
+GROUP BY and HAVING
+DISTINCT operations
+Comparison and logical operators
+IN, NOT IN, BETWEEN operators
+LIKE operator queries
